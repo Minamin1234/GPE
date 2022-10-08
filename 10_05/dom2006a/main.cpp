@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author “ì@—›‹è
+ * @date 2022-10-08
+ * @brief ICPC@‰ß‹–â‘è
+ * @see http://icpc.iisf.or.jp/past-icpc/domestic2006/contest/all_ja.html
+ * @copyright Copyright (c) 2022 MINAMI RIKU
+ * 
+ */
 #include <iostream>
 #include <vector>
 
